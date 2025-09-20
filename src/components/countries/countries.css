@@ -8,3 +8,11 @@
   width: 100%;
   height: 100%;
 }
+.visited-flag-cointainer img {
+  width: 120px;
+  display: flex;
+  margin-left: 10px;
+}
+.visited-flag-cointainer {
+  display: flex;
+}
